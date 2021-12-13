@@ -1,9 +1,6 @@
 
 ## UoI-CSE-MYY505 lab06
 
-## First-Name Last-Name
-
-**TODO - Update your name in this readme. Leave 1 space after the ## to preserve the text formating**
 
 
 ## Problem statement:
@@ -12,7 +9,6 @@ Run cache.asm on Data Cache Simulation tool and fill in the answers to a quiz.
  
 ## Files to work on
 * `cache.asm` 
-* `README.md` to add your name<br/>
       
 
 ## Automatic testing 
